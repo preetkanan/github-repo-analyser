@@ -67,8 +67,5 @@ Open Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - `.env` file should never be pushed to GitHub. (Already added in `.gitignore`)
 - `repos.db` (the database file) is local only.
 
-## Example Resume Line
-*Developed a FastAPI backend that integrates GitHub API and SQLite to fetch, analyze, and expose repository data via REST endpoints; supports authentication via environment variables.*
-
 ## License
 MIT License
